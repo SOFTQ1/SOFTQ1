@@ -37,14 +37,4 @@
 > ⚠️ Не пишите с просьбами взломать аккаунты — я за этичную безопасность.
 
 ---
-
-### 📈 Статистика GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=gruvbox&hide_border=true&bg_color=00000000" alt="stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000" alt="top langs" />
-</p>
-
----
-
 *«Stay curious. Stay secure.»* 🔐
