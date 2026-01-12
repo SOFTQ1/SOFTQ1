@@ -26,8 +26,6 @@
   ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)  
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-- **Иногда использую**: Bash,JS 
-
 ---
 
 ### 📬 Связь
