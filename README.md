@@ -26,14 +26,13 @@
   ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)  
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-- **Иногда использую**: Bash, Go, C  
-- **Инструменты**: Wireshark, Burp Suite, Nmap, Metasploit, Ghidra
+- **Иногда использую**: Bash,JS 
 
 ---
 
 ### 📬 Связь
-- 📱 **Telegram**: [@your_username](https://t.me/soluwu) 
-- 📧 **Email**: через форму на GitHub (или укажи, если хочешь публично)
+- 📱 **Telegram**: [Richard](https://t.me/soluwu) 
+
 
 > ⚠️ Не пишите с просьбами взломать аккаунты — я за этичную безопасность.
 
